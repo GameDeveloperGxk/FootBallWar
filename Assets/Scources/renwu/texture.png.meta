@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: e98c2c9e5aacdc64da187fe4a625950e
+timeCreated: 1598846098
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: renwu_15
+    21300002: renwu_5
+    21300004: renwu_6
+    21300006: renwu_3
+    21300008: renwu_11
+    21300010: renwu_16
+    21300012: renwu_9
+    21300014: renwu_17
+    21300016: renwu_13
+    21300018: renwu_4
+    21300020: renwu_12
+    21300022: renwu_14
+    21300024: renwu_7
+    21300026: renwu_8
+    21300028: renwu_1
+    21300030: renwu_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: renwu_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 5
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5078125, y: 0.515625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: renwu_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 381
+        width: 57
+        height: 49
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.5102041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: renwu_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 473
+        width: 43
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.5131579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: renwu_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 469
+        width: 45
+        height: 42
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.5119048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: renwu_11
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 404
+        width: 76
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5065789, y: 0.51111114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: renwu_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 81
+        width: 74
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5067568, y: 0.50364965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: renwu_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 127
+        height: 42
+      alignment: 9
+      pivot: {x: 0.503937, y: 0.5119048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: renwu_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 220
+        width: 181
+        height: 291
+      alignment: 9
+      pivot: {x: 0.50276244, y: 0.5017182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: renwu_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 20
+        width: 69
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.5084746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: renwu_4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 451
+        width: 88
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5056818, y: 0.5083333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: renwu_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 16
+        width: 33
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0.5131579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: renwu_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 24
+        width: 66
+        height: 104
+      alignment: 9
+      pivot: {x: 0.50757575, y: 0.5048077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: renwu_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 432
+        width: 54
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.5063291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: renwu_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 39
+        width: 81
+        height: 89
+      alignment: 9
+      pivot: {x: 0.50617284, y: 0.505618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: renwu_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 168
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5029762, y: 0.50308645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: renwu_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 130
+        width: 92
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5054348, y: 0.5056818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

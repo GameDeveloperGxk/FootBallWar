@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: bf6a5f844cb1b054dbee75c95ab713a7
+timeCreated: 1602645490
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jiangshi7_14
+    21300002: jiangshi7_10
+    21300004: jiangshi7_5
+    21300006: jiangshi7_1
+    21300008: jiangshi7_7
+    21300010: jiangshi7_11
+    21300012: jiangshi7_3
+    21300014: jiangshi7_6
+    21300016: jiangshi7_13
+    21300018: jiangshi7_9
+    21300020: jiangshi7_8
+    21300022: jiangshi7_2
+    21300024: jiangshi7_4
+    21300026: jiangshi7_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jiangshi7_14
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 428
+        width: 215
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5023256, y: 0.5060241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jiangshi7_10
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 239
+        width: 111
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5045045, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jiangshi7_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 179
+        width: 68
+        height: 46
+      alignment: 9
+      pivot: {x: 0.50735295, y: 0.51086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jiangshi7_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 305
+        width: 240
+        height: 206
+      alignment: 9
+      pivot: {x: 0.50208336, y: 0.50242716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jiangshi7_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 189
+        width: 101
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5049505, y: 0.5138889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jiangshi7_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 349
+        width: 202
+        height: 77
+      alignment: 9
+      pivot: {x: 0.50247526, y: 0.5064935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jiangshi7_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 220
+        width: 74
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5067568, y: 0.5104167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jiangshi7_6
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 279
+        width: 64
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5078125, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jiangshi7_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 270
+        width: 195
+        height: 77
+      alignment: 9
+      pivot: {x: 0.50256413, y: 0.5064935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jiangshi7_9
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 430
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0.5125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jiangshi7_8
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 472
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5192308, y: 0.51282054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jiangshi7_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 197
+        width: 125
+        height: 71
+      alignment: 9
+      pivot: {x: 0.504, y: 0.5070422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jiangshi7_4
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 358
+        width: 64
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5078125, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jiangshi7_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 227
+        width: 175
+        height: 76
+      alignment: 9
+      pivot: {x: 0.50285715, y: 0.5065789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
